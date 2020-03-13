@@ -5,10 +5,10 @@ Repository for code refactor
 This was a project involving the refactoring of a webpage to increase accessibility and improve SEO.
 
 Changes included:
-  -Increasing font size for better readability
-    -Including img alt tags for the visually impaired
-      -Semantic HTML tags to better identify elements
-         -Consolidation  and reordering of CSS stylesheet elements to increase SEO
+-Increasing font size for better readability
+ -Including img alt tags for the visually impaired
+  -Semantic HTML tags to better identify elements
+   -Consolidation  and reordering of CSS stylesheet elements to increase SEO
 
 ## User Story
 AS A marketing agency
